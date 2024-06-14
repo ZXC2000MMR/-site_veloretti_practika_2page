@@ -1,0 +1,64 @@
+.reddot{
+    height: 1050px;
+    background-image: url(../pikchi/reddotVelik.png);
+}
+
+.reddot-Text{
+    padding-top: 425px;
+    padding-left: 175px;
+}
+
+.reddot-Text a{
+    text-decoration: none;
+    color: white;
+    font-size: 65px;
+    line-height: 50px;
+}
+
+.reddot-Text p{
+    width: 370px;
+    color: white;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+
+
+
+
+
+
+.And-snova-indus{
+    padding-top: 91px;
+    /* padding-left: 2%; */
+    grid-gap: 10%;
+    height: 750px;
+    display: flex;
+    justify-content: center;
+}
+
+.And-snova-indus-Text{
+    width: 550px;
+    padding-top: 200px;
+}
+
+.And-snova-indus-Text a{
+    text-decoration: none;
+    color: black;
+}
+
+.And-snova-indus-Text-a1{
+    font-size: 50px;
+    line-height: 50px;
+}
+
+.And-snova-indus-Text p{
+    font-size: 18px;
+    line-height: 21px;
+    margin: 36px 0px 36px 0px;
+}
+
+.And-snova-indus-img{
+    width: 636px;
+    height: 636px;
+}

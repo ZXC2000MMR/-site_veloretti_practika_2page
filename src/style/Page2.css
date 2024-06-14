@@ -1,0 +1,146 @@
+.dva-velika{
+    height: 855px;
+    display: flex;
+    justify-content: center;
+    grid-gap: 4%;
+}
+
+
+.velik1{
+    height: 695px;
+    width: 636.98px;
+    background-color: #EBEDEE;
+}
+
+.velik2{
+    height: 695px;
+    width: 636.98px;
+    background-color: #EBEDEE;
+}
+
+.nachinka{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    grid-gap: 20px;
+    padding-left: 20px;
+}
+
+/* .nachinka img{
+    top: 50%;
+} */
+
+.panel-top{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    grid-gap: 20px;
+    /* justify-content: space-between;
+    align-items: center; */
+    padding-top: 30px;
+    padding-left: 20px;
+}
+
+/* .vpravo{
+    width: 16px;
+}
+
+.vlevo{
+    width: 16px;
+} */
+
+.panel-top img{
+    height: 30px;
+    position: relative;
+    right: 20px;
+}
+
+.panel-top h3{
+    font-size: 20px;
+    line-height: 26px;
+    height: 21px;
+    margin: 0;
+    width: 250px;
+}
+
+.cveta{
+    display: flex;
+    justify-content: center;
+    background-color: #EBEDEE;
+}
+
+.buttonsi{
+    display: flex;
+    justify-content: center;
+    grid-gap: 5%;
+}
+
+.cvet1 button{
+    background-image: url(../pikchi/Black-ball.png);
+    width: 45px;
+    height: 45px;
+    border: none;
+}
+
+.cvet2 button{
+    background-image: url(../pikchi/Gray-ball.png);
+    width: 45px;
+    height: 45px;
+    border: none;
+}
+
+.cvet3 button{
+    background-image: url(../pikchi/White-ball.png);
+    width: 45px;
+    height: 45px;
+    border: none;
+}
+
+.cvet4 button{
+    background-image: url(../pikchi/Pol-Black-pol-white.png);
+    width: 45px;
+    height: 45px;
+    border: none;
+}
+
+.cvet5 button{
+    background-image: url(../pikchi/Pol-white-Pol-white.png);
+    width: 45px;
+    height: 45px;
+    border: none;
+}
+
+.block-s-cvetami-and-buttons{
+    width: 90%;
+    padding-left: 25px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.buttonsi {
+    width: 50%;
+}
+
+.buttonsi button{
+    width: 45%;
+    background-color: white;
+    border-radius: 30px;
+    border: none;
+}
+
+.buttonsi-A{
+    width: 100px;
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.buttonsi-A a{
+    color: black;
+}
+
+.dva-velika{
+    padding-top: 180px;
+}

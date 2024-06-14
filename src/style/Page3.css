@@ -1,0 +1,98 @@
+.Exploreourbikes{
+    font-family: Arial;
+    display:flex ;
+    justify-content: space-between;
+}
+
+.strelki{
+    display:flex ;
+    grid-gap: 30px;
+
+}
+.strelki button{
+    background-color: white;
+    border: none;
+}
+
+
+
+
+
+
+.block1{
+    background-color: #EBEDEE;
+    width: 35%;
+    border-radius: 10px;
+    height: 510px;
+}
+
+
+.zagalovovok-and-evro{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 10px;
+}
+
+.zagalovovok-and-evro a{
+    padding-top: 30px;
+    color: black;
+    text-decoration: none;
+}
+
+.Women{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    width: 18%;
+}
+
+.woman-A a{
+    color: black;
+
+}
+.man-A a{
+    color: darkgray;
+    text-decoration: none;
+}
+
+.age a{
+    color: black;
+    text-decoration: none;
+}
+
+.buttonsin {
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 330px;
+    display: flex;
+}
+
+.buttonsin button{
+    width: 45%;
+    height: 40px;
+    background-color: white;
+    border-radius: 30px;
+    border: none;
+}
+
+.buttonsin-A{
+    width: 100px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.buttonsin-A a{
+    color: black;
+}
+
+.bloks{
+    padding-left: 3%;
+    display: flex;
+    grid-gap: 5%;
+    margin: 0px 0px 100px 0px;
+}
+

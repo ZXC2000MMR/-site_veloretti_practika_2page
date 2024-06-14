@@ -1,0 +1,29 @@
+.mainpage2{
+    position: relative;
+    font-family: Raleway;
+
+}
+.imgpage2{
+    width: 100%;
+}
+.textpage2{
+    position: absolute;
+    top: 0;
+    margin-top: 470px;
+    margin-left: 100px;
+    color: white;
+}
+.textpage3{
+    position: absolute;
+    bottom: 400px;
+    left: 100px;
+    font-size: 70px;
+    color: white;
+}
+.textpage4{
+    position: absolute;
+    bottom: 410px;
+    left: 100px;
+    font-size: 30px;
+    color: white;
+}
